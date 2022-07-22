@@ -15,5 +15,17 @@ You can login at http://localhost/user using
     password: bitnami
 
 
-To take down the pod you cna use
+To take down the pod you can use
     docker compose down
+
+
+
+
+I would also recommend installing some modules by going to the extend menu. 
+From there you can add a new module and provide links to install them
+
+Admin toolbar: https://www.drupal.org/project/admin_toolbar/releases/8.x-2.x-dev
+Path Auto: https://ftp.drupal.org/files/projects/pathauto-8.x-1.x-dev.tar.gz
+Webforms: https://ftp.drupal.org/files/projects/webform-6.1.x-dev.tar.gz
+IMCE: https://ftp.drupal.org/files/projects/imce-8.x-2.4.tar.gz
+Menu Block: https://ftp.drupal.org/files/projects/menu_block-8.x-1.8.tar.gz
